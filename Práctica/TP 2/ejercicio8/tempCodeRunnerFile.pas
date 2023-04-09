@@ -1,0 +1,1 @@
+riteln('Monto total del anio ',actual.anio,': $',montoA);

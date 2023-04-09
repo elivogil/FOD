@@ -1,0 +1,31 @@
+1000 felipe
+massacote
+577 520 0 0 la plata
+700 gogui
+branco
+4454 macelo
+4154 massacote
+1001 carmen
+areco
+45 85 0 0 berazza
+401 lucrecia
+trombo
+4324 carlos
+477 areco
+1002 sole
+dad
+41 86 0 1 san carlos
+403 vir
+ginia
+543 coco
+77 lizzo
+1003 antonio
+nissman
+454 232 1 5 la plata
+450 mamucha
+la pucha
+7896 papa
+4545 noel
+
+
+

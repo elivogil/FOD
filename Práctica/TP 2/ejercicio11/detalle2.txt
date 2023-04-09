@@ -1,0 +1,15 @@
+112 66 102 Buenos Aires
+21 545 102 Buenos Aires
+55 11 102 Catamarca
+66 23 102 Chaco
+77 545 102 Chaco
+88 34 102 Chaco
+99 43 102 Chubut
+443 2323 102 Ciudad Autonoma de Buenos Aires
+545 55 102 Cordoba
+23 99 102 Corrientes
+21 88 102 Corrientes
+44 777 102 Corrientes
+55 656 102 Corrientes
+67 245 102 Entre Rios
+8 323 102 Entre Rios

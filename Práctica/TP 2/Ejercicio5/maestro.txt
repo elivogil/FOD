@@ -1,0 +1,70 @@
+1000 454 700 4454 4154 577 0 0  la plata
+ felipe
+massacote
+ gogui
+branco
+ macelo
+ massacote
+851  19/02/1
+14:05
+Punta cana
+1003 454 450 7896 4545 454 1 5  la plata
+ antonio
+nissman
+ mamucha
+la pucha
+ papa
+ noel
+0  19/02/1
+14:05
+Punta cana
+1010 454 703 4144 4214 517 2 4  la plata
+ silicato
+massa
+ golcas
+bran
+ macarlo
+ massacote
+0  19/02/1
+14:05
+Punta cana
+1014 454 450 346 545 434 9 1  PTO MADERO
+ ALBERTO
+FERNANDEz
+ mala
+mamita
+ juan casf
+ noelfsf
+0  19/02/1
+14:05
+Punta cana
+3010 454 7033 4344 4314 5173 23 43  la plata
+ silicato3
+massa3
+ golcas3
+bran3
+ macarlo3
+ massacote3
+0  19/02/1
+14:05
+Punta cana
+3012 454 4013 -22293 7788 453 33 3  berazza
+ carlitos3
+vecino3
+ lucrecia3
+taas3
+ carlos3
+ asasa3
+0  19/02/1
+14:05
+Punta cana
+3014 454 4350 3346 5345 434 3 3  PTO MADERO
+ ALBERTO3
+FERNANDEz3
+ mala3
+mamita3
+ juan carlos3
+ FERNANDEz3
+0  19/02/1
+14:05
+Punta cana

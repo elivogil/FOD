@@ -1,0 +1,8 @@
+0 0 Buenos Aires
+0 0 Catamarca
+0 0 Chaco
+0 0 Chubut
+0 0 Ciudad Autonoma de Buenos Aires
+0 0 Cordoba
+0 0 Corrientes
+0 0 Entre Rios

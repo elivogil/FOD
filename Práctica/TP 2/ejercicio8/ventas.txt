@@ -1,0 +1,22 @@
+1 20 1 4 700 felipe
+mass
+1 21 4 4 800 felipe
+mass
+1 22 3 4 807 felipe
+mass
+1 22 12 4 907 felipe
+mass
+1 23 5 4 1000 felipe
+mass
+2 19 1 4 250 ivan
+gonzo
+2 20 2 4 350 ivan
+gonzo
+2 20 3 4 450 ivan
+gonzo
+8 24 4 12 4500 coco
+percada
+8 24 4 12 4500 coco
+percada
+8 24 4 12 4500 coco
+percada

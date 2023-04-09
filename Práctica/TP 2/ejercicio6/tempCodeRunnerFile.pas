@@ -1,0 +1,2 @@
+
+  WriteLn('safominimo');

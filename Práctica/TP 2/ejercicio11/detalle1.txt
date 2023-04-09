@@ -1,0 +1,12 @@
+100 310 1 Buenos Aires
+200 310 2 Buenos Aires
+600 130 1 Catamarca
+400 130 1 Chaco
+100 420 1 Chubut
+330 310 2 Chubut
+400 120 1 Ciudad Autonoma de Buenos Aires
+550 420 1 Cordoba
+10 630 1 Corrientes
+20 210 2 Corrientes
+30 40 3 Corrientes
+40 60 1 Entre Rios
