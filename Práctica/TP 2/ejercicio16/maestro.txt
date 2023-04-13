@@ -1,0 +1,27 @@
+1 300 0 66 100902
+caras
+droga en caramelos
+2 300 0 49 110902
+gente
+exorcismo en la matanza
+3 300 0 69 120902
+el dia
+matan a abuela a palazos
+5 300 0 47 130902
+clarin
+perro sin cabeza
+6 300 0 9 140902
+hoy
+sin noticias
+7 300 0 10 151002
+cronica
+memes
+8 300 0 70 160903
+telefe
+morfina para bebes
+9 300 0 60 220906
+tv publica
+l-gante canta el himno
+10 300 0 40 230909
+el trece
+una novelita
