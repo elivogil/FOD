@@ -134,14 +134,6 @@ end;
 
 procedure subMenu();
 
-    procedure mensajeSubMenu1(var arcNomb:string);
-    begin
-        writeln('');
-        writeln('Ingrese nombre del archivo que desea abrir');
-        writeln('Para volver al menu principal ingrese "salir"');
-        readln(arcNomb);
-    end;
-
     procedure mensajeSubMenu2(var num:integer);
     begin
         writeln('');
@@ -157,28 +149,23 @@ var
     num:integer;
     arcNomb:string;
 begin
-    mensajeSubMenu1(arcNomb);
-    while(arcNomb<>'salir')do begin
-        assign(arc,arcNomb);
-        mensajeSubMenu2(num);
-        while(num<>4)do begin
-            reset(arc);
-            case(num)of
-                1:agregarFlor(arc);
-                2:eliminarFlor(arc);
-                3:exportar(arc);
-            else begin
-                writeln('');
-                writeln('Opcion no valida, intente de nuevo');
-            end;
-            end;
-            close(arc);
-            mensajeSubMenu2(num);
+    assign(arc,'flores.bin');
+    mensajeSubMenu2(num);
+    while(num<>4)do begin
+        reset(arc);
+        case(num)of
+            1:agregarFlor(arc);
+            2:eliminarFlor(arc);
+            3:exportar(arc);
+        else begin
+            writeln('');
+            writeln('Opcion no valida, intente de nuevo');
         end;
-        mensajeSubMenu1(arcNomb);
+        end;
+        close(arc);
+        mensajeSubMenu2(num);
     end;
 end;
-
 
 
 procedure menu();
@@ -216,4 +203,3 @@ end;
 begin
     menu;
 end.
-
